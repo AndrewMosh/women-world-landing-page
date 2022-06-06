@@ -300,7 +300,7 @@ i {
 .view-first:hover p {
   transition-delay: 0.1s;
 }
-.gridon div img {
+.gridon div img:hover {
   filter: grayscale(100%);
 }
 .towomen,
